@@ -1,0 +1,25 @@
+.env
+*.env
+.env.*
+
+node_modules/
+
+# 运行时数据：仓库存储 + 用户工作区（seed 会自动重建 repos/，不入版本库）
+repos/
+home/
+
+*.db
+*.sqlite
+*.sqlite3
+
+logs/
+*.logs
+npm-debug.log*
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+*.swo
