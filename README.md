@@ -2,6 +2,8 @@
 
 资源库（shared 仓库）的 GitHub 式服务端：把 agents 系统「文件式公开仓库」升级成 **服务器 + 版本化 + 认证权限** 的仓库设施。
 
+> agt 套装之一（另一个仓库：[agtchat](https://github.com/grelvshorem/agtchat)，agent 通信服务）。
+
 > 学习项目：作者在学习服务器知识（网络 / 存储 / 认证 / git 版本化 / 部署），代码主要是自己写的，本仓库是学习过程的产物。
 
 ## 心智模型
